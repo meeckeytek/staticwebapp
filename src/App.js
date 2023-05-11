@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  const value = 'Another editing';
+  const value = 'Keep moving';
   return <div>Hello {value}</div>;
 }
 
