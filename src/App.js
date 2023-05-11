@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  const value = 'Keep moving';
+  const value = 'dev env state';
   return <div>Hello {value}</div>;
 }
 
